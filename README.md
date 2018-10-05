@@ -1,4 +1,4 @@
-#Preceptron
+# Perceptron 
 For this task, I created a Perceptron model that consists of four functions inside 
 a class: initial, output, update weights, and train. The initial function’s purpose is 
 to define the initial weight given to each data and the learning rate of the perceptron, 
