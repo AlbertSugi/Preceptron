@@ -1,4 +1,10 @@
-# Perceptron 
+# Overview 
+The task is to implement a [Perceptron Model](https://en.wikipedia.org/wiki/Perceptron#Learning_algorithm) from scratch to further understand how artificial neural network works.<br/>
+A ***Perceptron*** is used to define a hyperplane which divides the input space into two half-spaces and can be used to make binary classification.
+<p align="center">
+  <img width="460" height="300" src="https://github.com/AlbertSugi/Preceptron/blob/master/Seperable.JPG"><br/>
+Seperable Dataset <br/>
+</p><br/>
 For this task, I created a Perceptron model that consists of four functions inside 
 a class: initial, output, update weights, and train. The initial function’s purpose is 
 to define the initial weight given to each data and the learning rate of the perceptron, 
