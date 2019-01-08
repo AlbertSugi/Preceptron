@@ -39,10 +39,10 @@ Open Perceptron.py in your selected python IDE. Use command ***plotGraph(Dataset
 ### Seperable Dataset
 The output of a seperable dataset will have a graph with similar to the following graph shown:
 <p align="center">
-  <img width="460" height="300" src="https://github.com/AlbertSugi/Preceptron/blob/master/Seperable.JPG"><br/>
+  <img  src="https://github.com/AlbertSugi/Preceptron/blob/master/Seperable.JPG"><br/>
 </p><br/>
 ### Unseperable Dataset
 The output of an unseperable dataset will have a graph with similar to the following graph shown:
 <p align="center">
-  <img width="460" height="300" src="https://github.com/AlbertSugi/Preceptron/blob/master/Unseperable.JPG"><br/>
+  <img  src="https://github.com/AlbertSugi/Preceptron/blob/master/Unseperable.JPG"><br/>
 </p><br/>
