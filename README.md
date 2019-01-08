@@ -41,6 +41,7 @@ The output of a seperable dataset will have a graph with similar to the followin
 <p align="center">
   <img  src="https://github.com/AlbertSugi/Preceptron/blob/master/Seperable1.png"><br/>
 </p><br/>
+
 ### Unseperable Dataset
 The output of an unseperable dataset will have a graph with similar to the following graph shown:
 <p align="center">
