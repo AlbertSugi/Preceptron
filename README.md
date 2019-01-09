@@ -2,18 +2,18 @@
 The task is to implement a [Perceptron Model](https://en.wikipedia.org/wiki/Perceptron#Learning_algorithm) from scratch to further understand how artificial neural network works.<br/>
 A ***Perceptron*** is used to define a hyperplane which divides the input space into two half-spaces and can be used to make binary classification.
 <p align="center">
-  <img width="460" height="300" src="https://github.com/AlbertSugi/Preceptron/blob/master/Perceptron.png"><br/>
+  <img width="460" height="300" src="https://github.com/AlbertSugi/Pictures/blob/master/Perceptron.png"><br/>
 </p><br/>
 
 # Learning Boolean Functions 
 A boolean function is a two-class classification problem- the inputs are binary and the output is 1 if the corresponding function value is true and 0 otherwise. <br/>
 Functions like AND and OR are linearly separable and are solvable using the perceptron.<br/>
 <p align="center">
-  <img src="https://github.com/AlbertSugi/Preceptron/blob/master/AND%20Function.jpg"><br/>
+  <img src="https://github.com/AlbertSugi/Pictures/blob/master/AND%20Function.jpg"><br/>
 </p><br/>
 Functions like XOR cannot be solved with the simple perceptron because their graphs are not linearly separable. Hence, there is no single line/hyperplane that can divide the input space into two classes. Note that a multilayer perceptron (MLP) can be used to solve problems like the XOR.<br/>
 <p align="center">
-  <img src="https://github.com/AlbertSugi/Preceptron/blob/master/XOR%20Function.jpg"><br/>
+  <img src="https://github.com/AlbertSugi/Pictures/blob/master/XOR%20Function.jpg"><br/>
 </p><br/>
 
 # Perceptron Model
@@ -39,11 +39,11 @@ Open Perceptron.py in your selected python IDE. Use command ***plotGraph(Dataset
 ### Seperable Dataset
 The output of a seperable dataset will have a graph with similar to the following graph shown:
 <p align="center">
-  <img  src="https://github.com/AlbertSugi/Preceptron/blob/master/Seperable1.png"><br/>
+  <img  src="https://github.com/AlbertSugi/Pictures/blob/master/Seperable1.png"><br/>
 </p><br/>
 
 ### Unseperable Dataset
 The output of an unseperable dataset will have a graph with similar to the following graph shown:
 <p align="center">
-  <img  src="https://github.com/AlbertSugi/Preceptron/blob/master/Unseperable.png"><br/>
+  <img  src="https://github.com/AlbertSugi/Pictures/blob/master/Unseperable.png"><br/>
 </p><br/>
